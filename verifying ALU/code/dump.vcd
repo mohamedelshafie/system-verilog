@@ -1,0 +1,28 @@
+$date
+	Mon Nov 07 20:31:02 2022
+$end
+$version
+	QuestaSim Version 10.7c
+$end
+$timescale
+	1ns
+$end
+
+$scope module tbench_top $end
+
+$scope module t1 $end
+$upscope $end
+$upscope $end
+
+$scope begin DUT_sv_unit $end
+$upscope $end
+
+$scope begin test_sv_unit $end
+$upscope $end
+
+$scope begin std $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+$end
